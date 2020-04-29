@@ -1,0 +1,13 @@
+{
+	"logging": "INFO",
+	"show_video": false,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [1920, 1088],
+	"resize": [512, 288],
+	"rotation": 270,
+	"fps": 30,
+	"min_motion_percent": 0.0025,
+	"min_motion_frames": 3,
+	"door_switch_pin": 27
+}
